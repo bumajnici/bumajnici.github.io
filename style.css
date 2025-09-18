@@ -61,10 +61,6 @@ p {
 	right: 0; 
 } 
 
-.blockY {
-
-} 
-
 .content { 
 	flex: 1; 
 	display: flex; 
@@ -93,8 +89,7 @@ p {
 }
 
 .main { 
-	width: 100vh; 
-	background: lightyellow; 
+	width: 100vh;  
 }
 
 .right { 
